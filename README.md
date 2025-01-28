@@ -39,18 +39,11 @@ Went through Data Scraping and Wrangling, to Cleaning and Analizing the Data.
 - **Skills Used:** Several Python Libraries, SQL
 - **Highlights:** Getting Data ready for correct interpretations
 - 
-### 📚 [Dashboard](#)
-Created an interactive dashboard. 
+### 📚 [Dashboard](https://github.com/Teifoon/BikeSalesDashboardExcel)
+Created an interactive **Excel** dashboard. 
 
-- **Skills Used:** Python+Python Libraries 
+- **Skills Used:** Cleaning, Grouping and Visualizing
 - **Highlights:** Interactive dashboard displaying key insights
-
-
-### 📈 [Predictive Analysis](#)
-Developed a machine learning model to forecast key metrics.
-
-- **Skills Used:** Python, Scikit-learn, Pandas
-- **Highlights:** Accurate predictions and detailed visualizations
 
 ---
 
