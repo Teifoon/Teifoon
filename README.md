@@ -32,14 +32,12 @@ I am a **Data Scientist and Analyst** with a passion for turning data into actio
 ## 🚀 Featured Projects
 
 ### [IBM Data Science Final Project](https://github.com/Teifoon/IBMDataScienceProfessionalCertificate)
-
-### 📊 [Data Collection, Cleaning and Analizing](#)
 Went through Data Scraping and Wrangling, to Cleaning and Analizing the Data. 
 
 - **Skills Used:** Several Python Libraries, SQL
-- **Highlights:** Getting Data ready for correct interpretations
-- 
-### 📚 [Dashboard](https://github.com/Teifoon/BikeSalesDashboardExcel)
+- **Highlights:** Imported, cleaned, analyzed, visualized and built machine learning models 
+  
+### 📚 [Excel Dashboard](https://github.com/Teifoon/BikeSalesDashboardExcel)
 Created an interactive **Excel** dashboard. 
 
 - **Skills Used:** Cleaning, Grouping and Visualizing
