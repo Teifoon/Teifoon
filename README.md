@@ -15,10 +15,10 @@ I am a **Data Scientist and Analyst** with a passion for turning data into actio
 
 ## 🔧 My Toolkit
 
-| Category                     | Tools/Skills                                        |
+| Category                     | Tools/Skills                                       |
 |------------------------------|----------------------------------------------------|
 | **Programming Languages**    | Python, SQL                                        |
-| **Data Visualization**       | Tableau, Power BI, Matplotlib, Seaborn, Plotly     |
+| **Data Visualization**       | Tableau, Power BI, Excel                           |
 | **Data Analysis**            | Pandas, NumPy, Scikit-learn, Statsmodels           |
 | **Machine Learning**         | Scikit-learn, TensorFlow,                          |
 | **Big Data Tools**           | Apache Spark, Hadoop, PySpark                      |
