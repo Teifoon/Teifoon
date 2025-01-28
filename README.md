@@ -55,5 +55,3 @@ Created an interactive **Excel** dashboard.
 
 
 ---
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let's turn knowledge into power together! 🚀
