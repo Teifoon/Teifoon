@@ -22,7 +22,7 @@ I am a **Data Scientist and Analyst** with a passion for turning data into actio
 | **Data Analysis**            | Pandas, NumPy, Scikit-learn, Statsmodels           |
 | **Machine Learning**         | Scikit-learn, TensorFlow,                          |
 | **Big Data Tools**           | Apache Spark, Hadoop, PySpark                      |
-| **Database Management**      | MySQL, PostgreSQL,                                 |
+| **Database Management**      | MySQL,                                             |
 | **Cloud Platforms**          | IBM Cloud (Watson Studio), Google Cloud (BigQuery) |
 | **Statistical Analysis**     | Regression, Hypothesis Testing, Time Series        |
 | **Geospatial Analysis**      | Folium                                             |
